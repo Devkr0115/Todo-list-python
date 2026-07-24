@@ -67,7 +67,7 @@ python3 main.py
 
 ## ➕ Add Task
 
-![Add Task](screenshots/image\(41\).png)
+![Add Task](screenshots/image.png)
 
 ---
 

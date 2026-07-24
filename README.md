@@ -91,6 +91,6 @@ python3 main.py
 
 ## 👨‍💻 Author
 
-**Dev Swami**
+**Dev**
 
 GitHub: https://github.com/Devkr0115
